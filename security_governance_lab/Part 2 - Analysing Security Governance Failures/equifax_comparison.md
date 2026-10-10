@@ -1,4 +1,3 @@
-cat > equifax_comparison.md << 'EOF'
 # Comparison of Simulated Environment to Equifax Data Breach
 
 ## Overview
@@ -31,4 +30,3 @@ This report compares the security governance failures identified in our simulate
 
 ## Conclusion
 The simulated environment successfully recreates many of the security governance failures that contributed to the Equifax data breach. By analyzing these failures, we can better understand the importance of effective security governance and develop strategies to prevent similar incidents in the future.
-EOF
